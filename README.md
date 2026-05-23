@@ -1,5 +1,5 @@
-# 💫 About Me: I'm David Peter (DSL)
-I'm currently working on a clone website(FRONTEND)<br>I'm looking to collaborate on a major Web App(Fully functional Movie App, Hotel reservations App, Banking systems, e.t.c.)<br>I'm looking for help with BACKEND<br>I'm currently learning DevOps<br>Ask me about anything UI/UX related, I'm your GUY!!👌<br>Fun Fact: I'm the ONE😌
+# 💫 About Me: I'm David Peter (0xD5L)
+A frontend developer with a solid foundation in building responsive, user-friendly web interfaces. Proficient in core web technologies and modern frameworks, with hands-on experience turning designs into functional, interactive applications. Comfortable working across the full frontend stack — from structuring layouts and styling components to managing state and integrating APIs — while continuously leveling up in best practices, performance optimization, and clean code.
 
 
 ## 🌐 Socials:
