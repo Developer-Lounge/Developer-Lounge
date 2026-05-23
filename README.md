@@ -19,3 +19,5 @@ A frontend developer with a solid foundation in building responsive, user-friend
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
