@@ -1,3 +1,6 @@
+<img width="1024" height="359" alt="image" src="https://github.com/user-attachments/assets/e888ee7b-5871-4108-b300-543a4aa96865" />
+
+
 # 💫 About Me: I'm David Peter (0xD5L)
 A frontend developer with a solid foundation in building responsive, user-friendly web interfaces. Proficient in core web technologies and modern frameworks, with hands-on experience turning designs into functional, interactive applications. Comfortable working across the full frontend stack — from structuring layouts and styling components to managing state and integrating APIs — while continuously leveling up in best practices, performance optimization, and clean code.
 
